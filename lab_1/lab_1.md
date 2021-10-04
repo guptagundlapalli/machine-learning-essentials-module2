@@ -485,22 +485,14 @@ Throughout the lab, we have walked through a complete end-to-end machine learnin
 While the exact steps vary by project, and machine learning is often an iterative rather than linear process, this lab should serve you well as you tackle future machine learning labs.
 
 
-
-
-
 **Program Assignment**
 
 Using the dataset used in the case study. Perform the following tasks.
 
 1) Data Cleaning
-1) Experiment with different values of k
-1) Validate the model using LOOCV
-1) Evaluate the model performance
-
-
-
-
-
+2) Experiment with different values of k
+3) Validate the model using LOOCV
+4) Evaluate the model performance
 
 
 **Assessment**
@@ -509,79 +501,97 @@ Using the dataset used in the case study. Perform the following tasks.
 
 1) In what type of learning labeled training data is used?
 
-1. Unsupervised Learning
-1. Supervised Learning
-1. Reinforcement Learning
-1. None of the above
+A. Unsupervised Learning
+
+B. Supervised Learning
+
+C. Reinforcement Learning
+
+D. None of the above
 
 1) What characterizes unlabelled examples in machine learning?
 
-1. There is no prior knowledge
-1. There is no confusing knowledge
-1. There is prior knowledge
-1. There is plenty of confusing knowledge
+A. There is no prior knowledge
+
+B. There is no confusing knowledge
+
+C. There is prior knowledge
+
+D. There is plenty of confusing knowledge
 
 1) Which of the following is the best machine learning method?
 
-1. Scalable
-1. Accuracy
-1. Fast
-1. All of the above
+A. Scalable
+
+B. Accuracy
+
+C. Fast
+
+D. All of the above
 
 1) Data used to build a data mining model.
 
-1. Training data
-1. Validation data
-1. Test data
-1. Hidden data
+A. Training data
+
+B. Validation data
+
+C. Test data
+
+D. Hidden data
 
 1) The problem of finding hidden structures in unlabelled data is called.
 
-1. Supervised learning
-1. Unsupervised learning
-1. Reinforcement learning
-1. None of the above
+A. Supervised learning
+
+B. Unsupervised learning
+
+C. Reinforcement learning
+
+D. None of the above
 
 **Fill in the spaces with appropriate answers**
 
 1) When model fits very well to the training data and not perform well on test data such kind of issue is called as \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1) What is “K” in the KNN Algorithm?
+2) What is “K” in the KNN Algorithm?
 
-1) KNN Algorithm is known as \_\_\_\_\_\_\_\_\_\_\_\_ Learner.
+3) KNN Algorithm is known as \_\_\_\_\_\_\_\_\_\_\_\_ Learner.
 
-1) Choosing the right value of K is done through a process known as \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+4) Choosing the right value of K is done through a process known as \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-1) If K value is too large, then our model is \_\_\_\_\_\_\_\_\_\_\_\_\_.
+5) If K value is too large, then our model is \_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 **True or False**
 
 1) Accuracy is the best evaluation metric for classification problems.
 
-1. True
-1. False
+A. True
 
-1) KNN can be used to solve both classification and regression problem statements.
+B. False
 
-1. True
-1. False
+2) KNN can be used to solve both classification and regression problem statements.
 
-1) KNN is a Parametric algorithm
+A. True
 
-1. Ture
-1. False
+B. False
 
-1) In K-fold cross-validation, the entire data is used for training.
+3) KNN is a Parametric algorithm
 
-1. True
-1. False
+A. True
 
-1) In LOOCV, all of the data except one record is used for training and one record is used for testing.
+B. False
 
-1. True
-1. False
+4) In K-fold cross-validation, the entire data is used for training.
 
+A. True
 
+B. False
+
+5) In LOOCV, all of the data except one record is used for training and one record is used for testing.
+
+A. True
+
+B. False
 
 
 
@@ -590,24 +600,24 @@ Using the dataset used in the case study. Perform the following tasks.
 **Choose the appropriate option**
 
 1) B
-1) D
-1) D
-1) A
-1) B
+2) D
+3) D
+4) A
+5) B
 
 **Fill in the spaces with appropriate answers**
 
 1) Overfitting
-1) Number of Nearest Neighbours
-1) Lazy
-1) Hyperparameter Tuning
-1) Underfitting
+2) Number of Nearest Neighbours
+3) Lazy
+4) Hyperparameter Tuning
+5) Underfitting
 
 **True or False**
 
 1) False
-1) True
-1) False
-1) True
-1) True
+2) True
+3) False
+4) True
+5) True
 
